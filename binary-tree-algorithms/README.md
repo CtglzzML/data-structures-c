@@ -104,9 +104,9 @@ Concepts used:
 # Project Structure
 binary-tree-algorithms-c
 
-Torres_2_1.c
-Torres_2_2.c
-Torres_2_3.c
+tree_analysis.c
+tree_metrics.c
+tree_comparison.c
 
 bst.c
 bst.h
@@ -120,9 +120,9 @@ File description:
 
 | File | Description |
 |-----|-------------|
-| Torres_2_1.c | Binary tree analysis algorithms |
-| Torres_2_2.c | Counting even numbers in a binary tree |
-| Torres_2_3.c | Binary tree depth calculation |
+| tree_analysis.c | Binary tree analysis algorithms |
+| tree_metrics.c | Counting even numbers in a binary tree |
+| tree_comparison.c | Binary tree depth calculation |
 | bst.c | Binary Search Tree implementation |
 | bst.h | BST function declarations |
 | test_bst.c | Menu-driven BST program |
@@ -130,22 +130,7 @@ File description:
 
 ---
 
-# Compilation
 
-Example compilation commands:
-
-### Binary Tree Algorithms
-gcc Torres_2_1.c -o tree_analysis
-gcc Torres_2_2.c -o count_even
-gcc Torres_2_3.c -o tree_depth
-
-
-### Binary Search Tree Program
-gcc bst.c test_bst.c -o bst
-./bst
-
-
----
 
 # Concepts Demonstrated
 
