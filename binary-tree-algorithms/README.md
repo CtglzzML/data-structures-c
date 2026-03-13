@@ -102,7 +102,7 @@ Concepts used:
 ---
 
 # Project Structure
-binary-tree-algorithms-c
+binary-tree-algorithms
 
 tree_analysis.c
 tree_metrics.c
